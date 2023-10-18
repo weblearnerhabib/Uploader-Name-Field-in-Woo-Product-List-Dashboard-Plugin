@@ -1,15 +1,15 @@
 <?php
 /*
  * Plugin Name:       Add Uploader Name in Woo-Commerce Product List
- * Plugin URI:        https://github.com/weblearnerhabib
+ * Plugin URI:        https://github.com/weblearnerhabib/uploader-name-field-in-woo-product-list-dashboard
  * Description:       You can add Uploader Name column to Woo-Commerce product list
  * Version:           1.0.0
  * Requires at least: 5.3
  * Requires PHP:      7.2
  * Author:            Freelancer Habib
  * Author URI:        https://freelancer.com/u/csehabiburr183/
- * Update URI:        https://github.com/weblearnerhabib/
- * Text Domain:       uploaderNameWp
+ * Update URI:        https://github.com/weblearnerhabib/uploader-name-field-in-woo-product-list-dashboard
+ * Text Domain:       HR-Habib
  */
 
 
